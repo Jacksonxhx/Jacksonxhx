@@ -10,7 +10,7 @@
     - Developed a back-inference algorithm that identified key drivers of stock price fluctuations, achieving a **73%** accuracy rate in matching news to market movements.
 
 - 🔬 Current Research Experiences:
-  -  I’m currently working as a **Undergraduate Researcher with Ph.D. Ruixuan Zhang @ AI4CE**
+  - I’m currently working as a **Undergraduate Researcher with Ph.D. Ruixuan Zhang @ AI4CE**
     - Constructued video counting and tracking evaluation pipeline.
     - Designed and implemented the model input datasets and streamline the data processing pipeline   
 
