@@ -3,20 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jacksonxhx&label=Profile%20views&color=0e75b6&style=flat" alt="Jacksonxhx" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer Intern @ Capybara.AI**  
-  - Integrated **Milvus Vector Database** with open-source tools to enhance RAG workflows.  
+- 🔭 Current Work Experiences:
+  - I’m currently working as a **Software Engineer Intern @ Capybara.AI**  
+    - Engineered a high-concurrency system for real-time financial news collection, analysis, and sentiment scoring, optimizing data flow and prediction accuracy.  
+    - Designed sector-specific clustering algorithms, integrating sentiment analysis to provide actionable insights for industry-wide trend forecasting.
+    - Developed a back-inference algorithm that identified key drivers of stock price fluctuations, achieving a **73%** accuracy rate in matching news to market movements.
 
-- 🔭 Previously, I was a **Machine Learning Engineer Intern @ Pinduoduo**  
-  - Enhanced **mContriever models** for AI-powered shopping assistants, achieving a **+27% recall** and **+21% F1 score**.  
-  - Developed embedding pipelines and optimized RAG generation, reducing latency by **7.6%**.  
+- 🔬 Current Research Experiences:
+  -  I’m currently working as a **Undergraduate Researcher with Ph.D. Ruixuan Zhang @ AI4CE**
+    - Constructued video counting and tracking evaluation pipeline. 
+    - Designed and implemented the model input datasets and streamline the data processing pipeline   
 
-- 🔭 Earlier Experiences:  
-  - **Software Engineer Intern @ Zilliz**  
-    - Built a concurrent system for real-time news collection, analysis, and sentiment scoring.  
-    - Designed industry-specific clustering algorithms and engineered tools for financial analysis, integrating sentiment analysis into sector-wide predictions.  
+- 🔄 Earlier Work Experiences:  
+  - **Software Engineer Intern @ Zilliz**
+    - Integrated **Milvus Vector Database** with open-source tools to enhance RAG workflows.
+    - Designed a comprehensive embedding model evaluation framework, to improve RAG performance and streamline future model integrations.
+    - Built an automated GitHub sourcing agent, retrieving **70+** projects daily.
    
   - **Full-Stack Developer @ Repartee.AI**  
-    - Fine-tuned **VisualGLM’s Q-Former** with advanced attention masking techniques, reducing attribute mismatches by **6.79%**.
+    - Enhanced ElasticSearch-based indexing for technical documents, improving search accuracy and query response times.
+    - Built backend functionalities for billing, authorization, and portfolio management using Nest.js and Next.js.
    
   - **Full-Stack Developer @ Ecowise (Hackathon Project)**  
     - Developed an energy-saving chatbot using **GPT-3.5** to provide personalized tips and quizzes.  
@@ -35,5 +41,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacksonxhx&show_icons=true&locale=en&layout=compact" alt="Jacksonxhx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jacksonxhx&show_icons=true&locale=en" alt="Jacksonxhx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacksonxhx&" alt="Jacksonxhx" /></p>
