@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haoxuan (Jackson) Xie</h1>
 <h3 align="center">AI Enthusiast | Software Engineer | CS & Math Junior @ New York Univeristy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinhonglin-ryan&label=Profile%20views&color=0e75b6&style=flat" alt="jinhonglin-ryan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jacksonxhx&label=Profile%20views&color=0e75b6&style=flat" alt="Jacksonxhx" /> </p>
 
 - 🔭 I’m currently working as a **Software Engineer Intern @ Zilliz**  
   - Integrated **Milvus Vector Database** with open-source tools to enhance RAG workflows.  
