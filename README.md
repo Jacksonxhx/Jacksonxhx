@@ -11,7 +11,7 @@
 
 - 🔬 Current Research Experiences:
   -  I’m currently working as a **Undergraduate Researcher with Ph.D. Ruixuan Zhang @ AI4CE**
-    - Constructued video counting and tracking evaluation pipeline. 
+    - Constructued video counting and tracking evaluation pipeline.
     - Designed and implemented the model input datasets and streamline the data processing pipeline   
 
 - 🔄 Earlier Work Experiences:  
