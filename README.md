@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Haoxuan (Jackson) Xie</h1>
-<h3 align="center">AI Enthusiast | Software Engineer | CS & Math Junior @ New York Univeristy</h3>
+<h3 align="center">AI Enthusiast | Software Engineer | CS & Math Junior @ New York University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jacksonxhx&label=Profile%20views&color=0e75b6&style=flat" alt="Jacksonxhx" /> </p>
 
-- 🔭 Current Work Experiences:
+- 🔭 Current Work Experience:
   - I’m currently working as a **Software Engineer @ Capybara.AI**
 
     - Engineered a high-concurrency system for real-time financial news collection, analysis, and sentiment scoring, optimizing data flow and prediction accuracy.  
     - Designed sector-specific clustering algorithms, integrating sentiment analysis to provide actionable insights for industry-wide trend forecasting.
     - Developed a back-inference algorithm that identified key drivers of stock price fluctuations, achieving a **73%** accuracy rate in matching news to market movements.
 
-- 🔬 Current Research Experiences:
+- 🔬 Current Research Experience:
   - I’m currently working as a **Undergraduate Researcher with Ph.D. Ruixuan Zhang @ AI4CE**
 
     - Constructued video counting and tracking evaluation pipeline.
